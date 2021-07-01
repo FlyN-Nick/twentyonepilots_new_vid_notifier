@@ -12,4 +12,4 @@ To install needed dependencies:
 To run:
 
 1. Navigate to the root directory of your local copy of this repo.
-2. Run ```python3 notifier.py`.
+2. Run ```python3 notifier.py```.
