@@ -14,4 +14,8 @@ To run:
 1. Navigate to the root directory of your local copy of this repo.
 2. Run ```python3 .\notifier.py```. There are lots of optional arguments, run ```python3 .\notifier.py -h``` for help.
 
+Troubleshooting:
+
+This script will not work if you do not have chrome version 91. If so, get the appropiate chromedriver.exe from [here](https://chromedriver.chromium.org/downloads) and replace it. Or, if you would like to use a different browser, get its appropiate webdriver and modify the code.
+
 If you end up using this, please consider giving me a ⭐!
